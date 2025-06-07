@@ -4,10 +4,6 @@ A machine learning model that leverages ensemble models and hyperparameter tunin
 
 ---
 
-
-### 📘 Suggested `README.md` Content:
-
-````markdown
 # SmartRisk Learner
 
 **SmartRisk Learner** is a machine learning project designed to perform advanced risk assessment using fine-tuned models and ensemble learning techniques. It leverages tools like `scikit-learn`, `scikit-optimize`, and `skops` to achieve optimized and interpretable model performance.
